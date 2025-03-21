@@ -9,7 +9,7 @@ This program allows users to add, update, delete, mark the status of tasks (todo
 ## How to Run the Project
 
 1.  **Make sure you have Python 3 installed on your system.**
-2.  **Save the Python code to a file named `task-cli.py` (or any other name you prefer).**
+2.  **Download the file `task-cli.py`.**
 3.  **Open your terminal or command prompt.**
 4.  **Navigate to the directory where you saved the Python file.**
 5.  **Run the program using the command:**
